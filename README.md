@@ -3,6 +3,7 @@ Portfolio Performance Analysis (Equal-Weighted)
 This project contains a Python-based analysis of an equal-weighted portfolio built from 13 publicly traded companies.
 The script downloads historical price data, calculates daily portfolio returns, and visualizes the long-term portfolio growth.
 
+![Equal Weighted Portfolio Growth](equal_weighted_portfolio_growth.png)
 
 
 📈 Features
