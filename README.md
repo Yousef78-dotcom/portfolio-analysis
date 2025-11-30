@@ -63,3 +63,30 @@ work with financial datasets
 write clean analytical code
 
 visualize time-series performance
+
+
+
+▶️ How to Run
+
+1. Clone the repository:
+```bash
+git clone
+https://github.com/USERNAME/REPOSITORY.git
+
+3. Move into the project folder:
+
+
+
+cd REPOSITORY
+
+3. Install required libraries:
+
+
+
+pip install pandas numpy matplotlib yfinance
+
+4. Run the script:
+
+
+
+python portfolio_analysis.py
