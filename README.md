@@ -66,27 +66,31 @@ visualize time-series performance
 
 
 
-▶️ How to Run
+## How to Run
 
-1. Clone the repository:
-```bash
-git clone
-https://github.com/USERNAME/REPOSITORY.git
+1. Clone or download the repository:
+`bash
+git clone https://github.com/Yousef78-dotcom/equal-weighted-portfolio.git
 
-3. Move into the project folder:
-
-
-
-cd REPOSITORY
-
-3. Install required libraries:
+2. Install the required packages:
 
 
 
-pip install pandas numpy matplotlib yfinance
+pip install -r requirements.txt
 
-4. Run the script:
+3. Run the analysis script:
 
 
 
 python portfolio_analysis.py
+
+---
+
+
+## Project Structure
+
+.
+├── equal_weighted_portfolio.py        # Main Python script for portfolio analysis
+├── requirements.txt                   # List of project dependencies
+├── equal_weighted_portfolio_growth.png  # Output chart generated from the script
+└── README.md                          # Project documentation
